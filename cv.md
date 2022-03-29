@@ -1,6 +1,6 @@
 # Dymsha Dmitriy
 
-###Junior Frontend Developer
+### Junior Frontend Developer
 
 ## Contacts
 
